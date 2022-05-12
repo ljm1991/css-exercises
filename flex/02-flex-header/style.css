@@ -19,6 +19,7 @@ ul {
   list-style-type: none;
   display: flex;
   align-items: center;
+  padding: 24px;
 }
 
 a {
@@ -28,6 +29,7 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
 .left-links {
   margin-right: auto
 }
