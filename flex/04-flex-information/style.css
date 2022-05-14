@@ -24,6 +24,8 @@ img {
 .chili, .saffron, .pepper, .barberry {
   display: flex;
   flex-direction: column;
+  width: 200px;
+  text-align: center wrap;
 }
 
 /* do not edit this footer */
