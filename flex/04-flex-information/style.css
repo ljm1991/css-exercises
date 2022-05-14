@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
@@ -20,13 +21,14 @@ img {
 .plant {
   display: flex;
   justify-content: center;
+  gap: 52px;
 }
 
 .chili, .saffron, .pepper, .barberry {
   display: flex;
+  align-items: center;
   flex-direction: column;
   width: 200px;
-  text-align: center wrap;
 }
 
 /* do not edit this footer */
