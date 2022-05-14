@@ -19,6 +19,7 @@ img {
 
 .plant {
   display: flex;
+  justify-content: center;
 }
 
 .chili, .saffron, .pepper, .barberry {
