@@ -11,13 +11,10 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-}
-
-.title {
-  display: flex;
   justify-content: center;
   margin-bottom: 32px;
 }
+
 
 .plant {
   display: flex;
@@ -26,9 +23,6 @@ img {
 }
 
 .chili, .saffron, .pepper, .barberry {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
   width: 200px;
 }
 
