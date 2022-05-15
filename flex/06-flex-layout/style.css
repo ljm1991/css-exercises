@@ -46,6 +46,7 @@ input {
   display: flex;
   margin: 8px;
   gap: 32px;
+  padding: 0;
 }
 
 .footer {
