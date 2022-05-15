@@ -26,7 +26,12 @@ input {
   margin-bottom: 16px;
 }
 
-.header {
+.header, .footer {
   display: flex;
   justify-content: space-between;
+}
+
+.left-links, .right-links {
+  display: flex;
+  gap: 18px;
 }
