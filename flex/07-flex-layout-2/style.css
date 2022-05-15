@@ -22,7 +22,6 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
-  flex-shrink:0;
 }
 
 .card {
@@ -38,10 +37,4 @@ ul {
 a {
   text-decoration: none;
   color:#eee;
-}
-
-.cards {
-  display: flex;
-  max-width: 400px;
-  flex-wrap: wrap;
 }
