@@ -46,19 +46,19 @@ body {
 
 .cardcontainer {
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
-  max-width: 1000px;
   padding: 32px;
 }
 
 .middle {
   display: flex;
+  flex: 0 1 auto;
 }
 
 ul {
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 a {
