@@ -45,14 +45,16 @@ input {
 .left-links, .right-links {
   display: flex;
   gap: 18px;
-  text-decoration: none;
 }
 
 .footer {
   background: #eeeeee;
 }
 
+a {
+  text-decoration: none;
+}
+
 ul {
   list-style: none;
-  text-decoration: none;
 }
