@@ -41,3 +41,7 @@ input {
   display: flex;
   gap: 18px;
 }
+
+.footer {
+  background: #eeeeee;
+}
