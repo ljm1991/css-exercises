@@ -51,3 +51,8 @@ input {
 .footer {
   background: #eeeeee;
 }
+
+ul {
+  list-style: none;
+  text-decoration: none;
+}
